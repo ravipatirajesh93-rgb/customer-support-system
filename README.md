@@ -36,6 +36,4 @@ Each node contains:
 ## 🚀 How to Run
 
 ### Step 1: Compile
-```bash
-Customer support <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c73b16de-e046-4984-9aee-ccfab7e1ff29" />
- interface overview.png
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a07f44a1-7515-4d12-917f-47f27a1ee5f4" />
