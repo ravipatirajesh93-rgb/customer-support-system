@@ -37,3 +37,4 @@ Each node contains:
 ### Step 1: Compile
 ```bash
 gcc ticket_system.c -o ticket
+<img width="1536" height="1024" alt="Customer support system interface overview" src="https://github.com/user-attachments/assets/18b665ad-f365-46d7-ab2c-71efdc44f762" />
