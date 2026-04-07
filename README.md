@@ -37,4 +37,5 @@ Each node contains:
 
 ### Step 1: Compile
 ```bash
-Customer support system interface overview.png
+Customer support <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c73b16de-e046-4984-9aee-ccfab7e1ff29" />
+ interface overview.png
